@@ -1,0 +1,20 @@
+body{
+    padding-top: 100px;
+    background-color:rgb(167, 119, 255);
+    text-align: center;
+    color : whitesmoke;
+    font-size: 1.5em;
+    margin:100px auto;
+  }
+  button, input {
+    border-radius:10px;
+    text-align: center;
+     font-size: 1.5em;
+  }
+  input{
+    width: 250px;
+    height:45px;
+  }
+  button{
+      height:45px;
+  }
